@@ -1,0 +1,2 @@
+# Robustness-Analysis-of-the-diagnosis-specific-multi-model-for-12-lead-ECG-multi-label-classification
+This project evaluates the reliability of the 12-lead ECG multi-label classification model by Cha et al. (2024) . We conduct robustness analysis using noise-injected datasets (Gaussian Noise, Baseline Wander) and cross-dataset validation to quantify performance decay in real-world wearable conditions.
